@@ -1,4 +1,4 @@
-### Part 2: Implementing the Tasks Microservice RESTFUL API
+## Part 2: Implementing the Tasks Microservice RESTFUL API 📑
 
 1. Create a new project using the [Spring Initializr](https://start.spring.io/)
   * Use either *Java* or *Kotlin* as programming language.
