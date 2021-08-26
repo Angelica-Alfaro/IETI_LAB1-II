@@ -14,6 +14,15 @@ public class Task {
     private LocalDate dueDate;
     private String created;
 
+    public Task(String name, String description, Status status, String assignedTo, LocalDate dueDate, String created) {
+        this.name = name;
+        this.description = description;
+        this.status = status;
+        this.assignedTo = assignedTo;
+        this.dueDate = dueDate;
+        this.created = created;
+    }
+
     public String getId() {
         return id;
     }
